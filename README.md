@@ -2,7 +2,7 @@
 
 LinkLytics is a full-stack URL shortener application built with **React (frontend)** and **Spring Boot (backend)**. It allows users to shorten long URLs and track analytics via a user-friendly dashboard.
 
-🌐 **Live Demo:** (https://idyllic-lebkuchen-1fd836.netlify.app/dashboard)
+🌐 **Live Demo:** (https://idyllic-lebkuchen-1fd836.netlify.app)
 
 ---
 
@@ -38,13 +38,13 @@ url-shortener/
 
 ## 🛠️ Local Setup
 
-### 1. Clone this repository
+Clone this repository
 
 ```bash
 git clone https://github.com/devanshbansal2508/linklytics.git
 cd linklytics
 
-### Frontend Setup (url-shortener-react)
+Frontend Setup (url-shortener-react)
 bash
 Copy
 Edit
@@ -53,7 +53,8 @@ npm install
 npm start
 
 
-### Backend Setup (url-shortener-sb)
+
+Backend Setup (url-shortener-sb)
 Open the folder in IntelliJ IDEA / VS Code
 
 Run UrlShortenerSbApplication.java as a Spring Boot app
